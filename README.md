@@ -11,3 +11,5 @@ para se referir a árvore binária padrão use: binary
 
 # Introdução
 As árvores binárias são de modo geral um método bastante eficiente de armazenamento de dados, por possuírem custo próximo do logaritmico em busca e pesquisa. 
+
+A árvore binária padrão armazena entradas aleatórias de maneira razoavelmente eficiente, porém \theta
